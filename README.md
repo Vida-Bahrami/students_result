@@ -22,4 +22,4 @@ This Python project analyzes students' exam scores in different subjects and cal
 - Python 3.12
 - pandas
 
-## Created as a practice project for learning Python.
+Created as a practice project for learning Python.
